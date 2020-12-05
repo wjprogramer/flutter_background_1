@@ -1,16 +1,18 @@
 # flutter_background_1
 
-A new Flutter application.
+Background Service
 
-## Getting Started
+## 參考
 
-This project is a starting point for a Flutter application.
+https://www.youtube.com/watch?v=NXuAzXY_KOo
 
-A few resources to get you started if this is your first Flutter project:
+## 平台
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [x] Android
+- [ ] IOS
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Demo
+
+點 `Start Service` 之後，可以看到通知，
+即使 App 不在前台依然會顯示
